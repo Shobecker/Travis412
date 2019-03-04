@@ -12,9 +12,9 @@ public class SimpleCalculator {
 	public int multiply(int a, int b) {
 		return a*b;
 	}
-	/*
-	public float divide(int a, int b) {
+	
+	public double divide(double a, double b) {
 		return a / b;
 	}
-	*/
+	
 }
